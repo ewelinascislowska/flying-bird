@@ -1,2 +1,2 @@
-# flying-bird
-simple animation with flying bird
+# Flying-bird
+Simple animation in CSS with flying bird
